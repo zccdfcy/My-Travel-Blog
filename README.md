@@ -7,3 +7,5 @@
 •	Designed and added Models and Relationships to support adding comment function for visitors. 
 
 •	Created Superuser by Django-admin for managing posts, users and comments.
+
+Blog Link: https://blog.zccdfcy.com/
